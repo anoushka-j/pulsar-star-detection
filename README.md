@@ -2,7 +2,7 @@
 
 🔭 Predicting pulsar stars with machine learning 🔭
 
-*Jupyter notebook coming soon*
+*---Jupyter notebook coming soon---*
 
 ## Gathering Domain Knowledge
 
