@@ -1,5 +1,8 @@
 # pulsar-star-detection 💥
-predicting pulsar stars with machine learning
+
+**Jupyter notebook coming soon** 
+
+🔭 Predicting pulsar stars with machine learning 🔭
 
 ## Gathering Domain Knowledge
 
