@@ -1,4 +1,4 @@
-# pulsar-star-detection
+# pulsar-star-detection 💥
 predicting pulsar stars with machine learning
 
 ## Gathering Domain Knowledge
@@ -33,7 +33,8 @@ SNR (dB) = 10 * log10(Signal Power / Noise Power)
 Signal Power represents the power of the signal (useful information).
 Noise Power represents the power of the noise.
 The DN-SNR curve shows how the SNR varies across different DN values in an image. Typically, you'll find that the SNR is higher for brighter or more intense pixels and lower for darker pixels. The curve can help analysts and researchers understand the image quality, identify the dynamic range of the sensor, and assess the trade-offs between capturing dim details and avoiding saturation (i.e., pixels with the maximum DN value).
-Features:
+
+**Features:**
 
 1. Mean of the integrated profile.
 2. Standard deviation of the integrated profile.
